@@ -1,0 +1,54 @@
+{
+    "appKeys": {
+        "KEY_DEFINITION": 1,
+        "KEY_WORD": 0
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "lfiscal@gmail.com",
+    "longName": "Word Of The Day",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/futura.ttf",
+                "name": "Futura_12",
+                "type": "font"
+            },
+            {
+                "file": "fonts/futura.ttf",
+                "name": "Futura_14",
+                "type": "font"
+            },
+            {
+                "file": "images/2828.png",
+                "menuIcon": true,
+                "name": "image",
+                "type": "png"
+            },
+            {
+                "file": "fonts/Sharpie_2.ttf",
+                "name": "Sharpie_64",
+                "type": "font"
+            },
+            {
+                "file": "fonts/Sharpie_2.ttf",
+                "name": "Sharpie_18",
+                "type": "font"
+            },
+            {
+                "file": "fonts/Sharpie_2.ttf",
+                "name": "Sharpie_16",
+                "type": "font"
+            }
+        ]
+    },
+    "shortName": "Word Of The Day",
+    "uuid": "4482890a-4666-48d8-9bba-be03b4b2e1f9",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
